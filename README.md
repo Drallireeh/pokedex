@@ -1,4 +1,0 @@
-pokedex
-=======
-
-Pokemon database system
